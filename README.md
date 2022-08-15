@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameer</h1>
 <h3 align="center">A young developer looking to learn new skills and frameworks</h3>
 
-- 🤖 I’m currently working as a Machine Vision and Robotics Research Assitant **@ The University of Guelph**
+- 🤖 I’m currently working as a Machine Vision and Robotics Research Assistant **@ The University of Guelph**
 
 - 📫 How to reach me **ameermushani@gmail.com**
 
