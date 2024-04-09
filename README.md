@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ameermushani@gmail.com**
 
-- ⚡ Fun fact **I love playing Smash Bros. Melee and other competitive fighting games**
+- ⚡ Fun fact **I love playing Tekken, Smash Bros. Melee, and other competitive fighting games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
