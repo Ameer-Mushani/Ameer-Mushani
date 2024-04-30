@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameer</h1>
 <h3 align="center">A young developer looking to learn new skills and frameworks</h3>
 
-- 🤖 I’ve recently graduated from my Software Engineering undergrad  **@ The University of Guelph**
+- 🤖 I’ve recently graduated from my Software Engineering bachelor's  **@ The University of Guelph**
 
 - 📫 How to reach me **ameermushani@gmail.com**
 
